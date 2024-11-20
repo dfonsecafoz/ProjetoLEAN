@@ -20,10 +20,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhJvTV92FceIm_9CPIHu-29" value="Documentar o contato inicial com as informações fornecidas pelo usuário, criando um registro no sistema." style="strokeWidth=2;html=1;shape=mxgraph.lean_mapping.manufacturing_process;fontSize=12;verticalAlign=middle;html=1;align=center;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="830" y="820" width="130" height="120" as="geometry" />
+          <mxGeometry x="830" y="820" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yhJvTV92FceIm_9CPIHu-30" value="Registro da Interação" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="yhJvTV92FceIm_9CPIHu-29">
-          <mxGeometry width="130" height="22.285714285714285" as="geometry" />
+          <mxGeometry width="150" height="22.285714285714285" as="geometry" />
         </mxCell>
         <mxCell id="yhJvTV92FceIm_9CPIHu-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhJvTV92FceIm_9CPIHu-33" target="yhJvTV92FceIm_9CPIHu-36">
           <mxGeometry relative="1" as="geometry" />
@@ -75,6 +75,33 @@
         </mxCell>
         <mxCell id="yhJvTV92FceIm_9CPIHu-49" value="&lt;div&gt;Fechamento&lt;/div&gt;" style="text;fontSize=12;spacingLeft=2;verticalAlign=top;html=1;align=center;spacingTop=-5;resizeWidth=1;whiteSpace=wrap;" vertex="1" parent="yhJvTV92FceIm_9CPIHu-48">
           <mxGeometry width="130" height="22.285714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhJvTV92FceIm_9CPIHu-82" target="yhJvTV92FceIm_9CPIHu-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhJvTV92FceIm_9CPIHu-82" target="yhJvTV92FceIm_9CPIHu-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-82" value="Atividades&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Criar a interação no sistema.&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Documentar informações.&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px; background-color: initial;&quot;&gt;- Salvar o registro.&lt;/span&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="830" y="940" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-84" value="Atividades&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- Receber o chamado.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;- Identificar o usuário.&lt;br&gt;- Registrar o motivo do contato.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="940" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhJvTV92FceIm_9CPIHu-86" target="yhJvTV92FceIm_9CPIHu-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-86" value="Atividades&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- Determinar se é incidente ou requisição de serviço.&lt;br&gt;- Definir o fluxo principal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="940" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="yhJvTV92FceIm_9CPIHu-88" target="yhJvTV92FceIm_9CPIHu-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-88" value="Atividades&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;- Atribuir categoria, subcategoria e item de configuração.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="940" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yhJvTV92FceIm_9CPIHu-90" value="Atividades&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;div&gt;- Identificar grupo ou técnico responsável.&lt;br&gt;- Notificar.&lt;br&gt;- Registrar o status inicial.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;table style=&quot;text-align: left;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.businessObject;overflow=fill;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1500" y="940" width="150" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
